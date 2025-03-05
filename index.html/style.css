@@ -196,10 +196,6 @@ h1 span {
   color: #767269;
 }
 
-.box a:nth-child(2):hover {
-  color: #767269;
-}
-
 .box a:before {
   content: "";
   position: absolute;
